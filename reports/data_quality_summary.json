@@ -1,0 +1,13 @@
+{
+  "synthetic_dataset": true,
+  "rows_before_cleaning": 1212,
+  "columns_before_cleaning": 17,
+  "exact_duplicate_rows_detected": 12,
+  "rows_after_exact_duplicate_removal": 1200,
+  "rows_after_cleaning": 1200,
+  "missing_cells_before_cleaning": 417,
+  "missing_cells_after_cleaning": 750,
+  "invalid_email_values_remaining": 0,
+  "negative_bill_amounts_remaining": 0,
+  "negative_stays_remaining": 0
+}
